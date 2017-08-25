@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\118b954a70d56308b06f46d33a3796042f3e0cdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_59defc63236755c74c0adabf0d04fbed7d7b5834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_af9849e14f4b476606da7234b518c143879f5722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\c7406f200f8fd6a36c1ccaba1b333130931970a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_7f04f9b765902583c50d66769390d1d4373b56ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\5d05b133ad27a7736af1480c1786904ad5fc035f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_58a13a7a43486ec9022682187f06e6406aadf95b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\2a2a05337b767f680cf3d4365f6f1a6b8e87bd0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_d07bb7ae9160349dad1bbb1d398f9b881d21a191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\28866f8e18305d71b15ab6a2fb831af1cda65488\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_3b03954a9965e16804b2060025bb5158bdc288dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\d79933dd46996b2697483f3897ecda3c1386e51e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_d28adf1180ac01bdda5ae7885db6c883babbdd84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\c69e43ca0eca6a83d7ec29d5e510e62eee6d6e7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_278e551fbcfb6df86d1242ac39814e80a7cefae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\63a8e81683a4692f4ddbdf1f03ec4abebc92192c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_709b9532636a39209e367d6e67f7af6ec8901067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rakesh\.android\build-cache\c72cf9838aa2614a47b546fa617cce7856573316\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\build\intermediates\pre-dexed\debug\classes_4cce9ba0dfbe879dcc6b1dc329461461f283b419.jar" />
+    </item>
+
+</items>

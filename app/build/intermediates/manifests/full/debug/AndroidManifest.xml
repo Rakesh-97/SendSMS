@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.spider.myapplication"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Base.Theme.AppCompat.Light.DarkActionBar" >
+        <activity
+            android:name="com.example.spider.myapplication.Activitys.Appsplash"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.spider.myapplication.Activitys.Mainactivity1" />
+        <activity android:name="com.example.spider.myapplication.Activitys.Mainactivity2" />
+        <activity android:name="com.example.spider.myapplication.Activitys.Mainactivity3" />
+        <activity android:name="com.example.spider.myapplication.Activitys.Forsendsms" />
+        <activity android:name="com.example.spider.myapplication.Activitys.Aboutapp" />
+        <activity android:name="com.example.spider.myapplication.Activitys.Team" />
+        <activity android:name="com.example.spider.myapplication.Activitys.Mainactivity" />
+        <activity
+            android:name="com.example.spider.myapplication.Activitys.Mainactivitymain"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+    </application>
+
+</manifest>

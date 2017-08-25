@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:7:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Rakesh\.android\build-cache\c69e43ca0eca6a83d7ec29d5e510e62eee6d6e7f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Rakesh\.android\build-cache\63a8e81683a4692f4ddbdf1f03ec4abebc92192c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Rakesh\.android\build-cache\5d05b133ad27a7736af1480c1786904ad5fc035f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Rakesh\.android\build-cache\d79933dd46996b2697483f3897ecda3c1386e51e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Rakesh\.android\build-cache\c72cf9838aa2614a47b546fa617cce7856573316\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Rakesh\.android\build-cache\28866f8e18305d71b15ab6a2fb831af1cda65488\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Rakesh\.android\build-cache\118b954a70d56308b06f46d33a3796042f3e0cdd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Rakesh\.android\build-cache\c7406f200f8fd6a36c1ccaba1b333130931970a0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Rakesh\.android\build-cache\2a2a05337b767f680cf3d4365f6f1a6b8e87bd0b\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:9:9-42
+	android:theme
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:12:9-72
+activity#com.example.spider.myapplication.Activitys.Appsplash
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:theme
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:14:13-69
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:13:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.spider.myapplication.Activitys.Mainactivity1
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:21:9-70
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:21:19-58
+activity#com.example.spider.myapplication.Activitys.Mainactivity2
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:22:9-70
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:22:19-58
+activity#com.example.spider.myapplication.Activitys.Mainactivity3
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.example.spider.myapplication.Activitys.Forsendsms
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:24:19-55
+activity#com.example.spider.myapplication.Activitys.Aboutapp
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:25:9-65
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:25:19-53
+activity#com.example.spider.myapplication.Activitys.Team
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.spider.myapplication.Activitys.Mainactivity
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:27:19-57
+activity#com.example.spider.myapplication.Activitys.Mainactivitymain
+ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:28:9-29:75
+	android:theme
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml:28:19-61
+uses-sdk
+INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Rakesh\.android\build-cache\c69e43ca0eca6a83d7ec29d5e510e62eee6d6e7f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Rakesh\.android\build-cache\63a8e81683a4692f4ddbdf1f03ec4abebc92192c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Rakesh\.android\build-cache\5d05b133ad27a7736af1480c1786904ad5fc035f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Rakesh\.android\build-cache\d79933dd46996b2697483f3897ecda3c1386e51e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Rakesh\.android\build-cache\c72cf9838aa2614a47b546fa617cce7856573316\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Rakesh\.android\build-cache\28866f8e18305d71b15ab6a2fb831af1cda65488\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Rakesh\.android\build-cache\118b954a70d56308b06f46d33a3796042f3e0cdd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Rakesh\.android\build-cache\c7406f200f8fd6a36c1ccaba1b333130931970a0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Rakesh\.android\build-cache\2a2a05337b767f680cf3d4365f6f1a6b8e87bd0b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Rakesh\.android\build-cache\c69e43ca0eca6a83d7ec29d5e510e62eee6d6e7f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rakesh\Documents\pc content ubuntu\AndroidStudioProjects\Webview\app\src\main\AndroidManifest.xml
