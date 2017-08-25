@@ -1,0 +1,1 @@
+A simple SMS app for send sms using phone sms manager and online free sms sites.
